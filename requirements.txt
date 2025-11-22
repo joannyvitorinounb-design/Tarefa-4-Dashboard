@@ -1,10 +1,5 @@
-
 streamlit
-scikit-learn>=1.1
-imbalanced-learn
+pandas
+scikit-learn
 matplotlib
 numpy
-pandas
-xgboost
-lightgbm
-
